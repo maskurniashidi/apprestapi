@@ -1,0 +1,23 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "aplikasi rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maskurniashidi/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "maskur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maskurniashidi/apprestapi/issues"
+  },
+  "homepage": "https://github.com/maskurniashidi/apprestapi#readme"
+}
